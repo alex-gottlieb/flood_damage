@@ -1,0 +1,6 @@
+/data/processed/excess_precip_stats_mon/grid/
+/data/processed/extreme_precip_stats/grid/
+/data/processed/prism_temp_stats_grid.nc
+/data/processed/delta_gdp_decomposition/
+.ipynb_checkpoints
+.pdf

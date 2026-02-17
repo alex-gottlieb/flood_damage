@@ -1,0 +1,12 @@
+prism grace-csr
+imerg grace-csr
+chirps grace-csr
+cpc grace-csr
+prism clsm-grace
+imerg clsm-grace
+chirps clsm-grace
+cpc clsm-grace
+prism grace-jpl
+imerg grace-jpl
+chirps grace-jpl
+cpc grace-jpl
